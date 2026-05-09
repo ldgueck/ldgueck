@@ -3,7 +3,7 @@
 
 Hello. You can find me at lynn@gueck.net or +358407790820.
 
-I am retired and enjoying the chance to code for fun. Throughout my work life, programming was often a "side duty"—a practical tool I used to get things done.
+I am retired and enjoying the chance to code for fun. Throughout my work life, programming was often a "side project"—a practical tool I used to get things done.
 
 Over the years, I’ve worked with a variety of languages:
 * **The Classics:** Fortran and Pascal.

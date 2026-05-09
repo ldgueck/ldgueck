@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ldgueck/ldgueck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+  
+Hello. You can reach me at lynn@gueck.net or +358407790820.
 
-Here are some ideas to get you started:
+I am retired. I am learning to use the Google AI Studio with my programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are hobby projects, mostly using Racket Lisp.
+
+I work on learning projects, because I know so little.
+     Data A</td>
+    <td>Data B</td>
+  </tr>
+</table>
+
+
